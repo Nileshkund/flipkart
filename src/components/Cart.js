@@ -1,5 +1,5 @@
 import React from 'react'
-import "./cart.css"
+import "./Cart.css"
 import { useStateValue } from './CartContext'
 import CartProducts from './CartProducts'
 import { gettotalvalue, totalitems } from './reducer'
